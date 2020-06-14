@@ -9,3 +9,14 @@ Po przygotowaniu wszystkiego prosze zrobic pull request.
 # Zajecia 3: If-y, petle, tablice, funkcje w Bash-u
 Wynikiem tych zajec powinnien byc katalog ze skryptami o ktorych mowa w tresci zadan.
 Podobnie jak poprzednio prosze przygotowac pull request z katalogiem zawierajacym wasze skrypty.
+
+# Zajecia 4: Wstep do C/C++
+Prosze przygotowac rozwiazania zadan z zajec. Obowiazuja wszystkie zadania a nie tylko te, ktore udalo sie zdazyc zrobic/pokazac na zajeciach.
+
+# Zajecia 5: Procesy
+jw.
+
+# Zajecia 6: Make, sygnaly, sockety
+jw.
+Poniewaz jest uzywalismy 2 stron z zajeciami w trakcie zajec to wyjasnie, ze tu chodzi o nowa strone dr Puzniakowskiego na ktorej dostepne sa wyklady.
+W ramach praktycznego cwiczenia implementowania obslugi sygnalow zachecam do skorzystania rowniez z sigaction.
