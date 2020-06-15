@@ -20,3 +20,4 @@ jw.
 jw.
 Poniewaz jest uzywalismy 2 stron z zajeciami w trakcie zajec to wyjasnie, ze tu chodzi o nowa strone dr Puzniakowskiego na ktorej dostepne sa wyklady.
 W ramach praktycznego cwiczenia implementowania obslugi sygnalow zachecam do skorzystania rowniez z sigaction.
+
